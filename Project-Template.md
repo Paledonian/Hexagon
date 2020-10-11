@@ -16,4 +16,5 @@ Bu alana projenizin detaylı tanıtımını yazınız.
 # GitHub Bağlantı
 
 https://github.com/Paledonian/Hexagon
+
 https://github.com/metalli-guy
