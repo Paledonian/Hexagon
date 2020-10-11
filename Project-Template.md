@@ -17,4 +17,4 @@ Bu alana projenizin detaylı tanıtımını yazınız.
 
 https://github.com/Paledonian/Hexagon
 
-https://github.com/metalli-guy
+https://github.com/metalli-guy/hexagon
