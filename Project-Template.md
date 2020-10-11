@@ -1,6 +1,6 @@
 # Özet
 
-Alfa ışımasının kuantum rastsal sayı üretebileceğini düşündük. Bunun için öncelikle gerekli donanımla işlenmemiş veri elde ettik. Sonra bu veriyi, rastsal sayı formuna gelecek şekilde işledik. Bu sırada, IBM'in kuantum bilgisayarlarında rastsal sayı ürettik. Kendi ürettiğimiz rastsal sayılar ile IBM'de üretilen rastsal sayıları karşılaştırarak bir sonuca vardık.
+Alfa bozunumunun kuantum rastsal sayı üretebileceğini düşündük. Bunun için öncelikle gerekli donanımla işlenmemiş veri elde ettik. Sonra bu veriyi, rastsal sayı formuna gelecek şekilde işledik. Bu sırada, IBM'in kuantum bilgisayarlarında rastsal sayı ürettik. Kendi ürettiğimiz rastsal sayılar ile IBM'de üretilen rastsal sayıları karşılaştırarak bir sonuca vardık.
 
 # Açıklama
 
