@@ -1,2 +1,0 @@
-# Hexagon
-Hackathon submission
