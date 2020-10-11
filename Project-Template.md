@@ -11,7 +11,7 @@ Bu alana projenizin detaylı tanıtımını yazınız.
  - @NeutronMaker | İsim: Arda Kayaalp
  - @metalli-guy | İsim: Deniz Orhun Boztemur
  - İsim: Egecan Karadöller
- - İsim: İdil Ilgaz Kaya
+ - @idililgazkaya | İsim: İdil Ilgaz Kaya
  
 # GitHub Bağlantı
 
