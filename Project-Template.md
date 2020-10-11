@@ -4,7 +4,7 @@ Alfa bozunumunun kuantum rastsal sayı üretebileceğini düşündük. Bunun iç
 
 # Açıklama
 
-Bu alana projenizin detaylı tanıtımını yazınız.
+Ilk iş olarak alfa bozunumunu bizim için rastsal sayıya çevirebilecek deney düzeneğini tasarladık. Sonra, halihazırda elimizde bulunan okuma devresi ve Arduino tabanlı mikrodenetleyici ile alfa bozunmaları arasında geçen süreleri elde ettik. Elde ettiğimiz süreler ile Hot Bit ve Çift Aralık metodlarıyla rastsal sayı ürettik. Sonra, yaygın sayı üreteçleriyle rastsal sayı üretip, bunları Dieharder Test Suite ve NIST-STS testlerine tabi tutarak elimizdeki verilerin ne kadar verimli olduklarını karşılaştırdık.  Elde ettiğimiz sonuçları sunumumuzda görebilirsiniz.
 
 # Takım Üyeleri
  - @Paledonian | İsim: Ali Ulvi Nohutçu
