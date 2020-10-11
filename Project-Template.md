@@ -1,19 +1,18 @@
 # Özet
 
-*Bu alanda fikrinizi ve projenizi 3-4 cümle şeklinde kısaca ifade ediniz.*
+Bu alanda fikrinizi ve projenizi 3-4 cümle şeklinde kısaca ifade ediniz.
 
 # Açıklama
 
-*Bu alana projenizin detaylı tanıtımını yazınız.*
+Bu alana projenizin detaylı tanıtımını yazınız.
 
 # Takım Üyeleri
-
-*Buraya takım üyelerinin GitHub kullanıcı adlarını yazınız.*
-
-*Örnek:*
-
- - @KuantumTurkiye | İsim: KuantumTurkiye
-
+ - @Paledonian | İsim: Ali Ulvi Nohutçu
+ - @NeutronMaker | İsim: Arda Kayaalp
+ - @Metalli-guy | İsim: Deniz Orhun Boztemur
+ - İsim: Egecan Karadöller
+ - İsim: İdil Ilgaz Kaya
+ 
 # GitHub Bağlantı
 
-*Buraya projenizin bulunduğu GitHub deposunun bağlantısını yazınız.*
+https://github.com/Paledonian/Hexagon
