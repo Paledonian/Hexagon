@@ -9,10 +9,11 @@ Bu alana projenizin detaylı tanıtımını yazınız.
 # Takım Üyeleri
  - @Paledonian | İsim: Ali Ulvi Nohutçu
  - @NeutronMaker | İsim: Arda Kayaalp
- - @Metalli-guy | İsim: Deniz Orhun Boztemur
+ - @metalli-guy | İsim: Deniz Orhun Boztemur
  - İsim: Egecan Karadöller
  - İsim: İdil Ilgaz Kaya
  
 # GitHub Bağlantı
 
 https://github.com/Paledonian/Hexagon
+https://github.com/metalli-guy
